@@ -53,24 +53,6 @@
 
 </div>
 
-<div class="pagination">
-    <pages>
-        <img src="./image/arrow-today.svg">
-        <page class="active">1</page>
-        <page>2</page>
-        <page>3</page>
-        <page class="no-active">...</page>
-        <page>9</page>
-        <img class="last" src="./image/arrow-today.svg">
-    </pages>
-    <counts>
-        Показывать по:
-        <count>10</count>
-        <count class="active">20</count>
-        <count>50</count>
-    </counts>
-</div>
-
 @include('common.footer')
 
 <div id="popup-comment" class="add-comment popup-comment no-display">
