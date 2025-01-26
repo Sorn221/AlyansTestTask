@@ -94,7 +94,7 @@ docker-compose exec app php artisan migrate
 
 После успешного запуска откройте проект в браузере:
 
-```
 Приложение: http://localhost:8080
-```
 ### Контакты
+- tg: @codeGodddd
+- email: tf.dotblades@mail.ru
