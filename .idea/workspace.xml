@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e75a58dc-d7d8-4fc4-962c-f367097a48b9" name="Changes" comment="" />
+    <list default="true" id="e75a58dc-d7d8-4fc4-962c-f367097a48b9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -149,7 +151,7 @@
     "WebServerToolWindowPanel.toolwindow.show.permissions": "false",
     "WebServerToolWindowPanel.toolwindow.show.size": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/projects/mailware-org",
+    "last_opened_file_path": "G:/",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -199,7 +201,7 @@
       <workItem from="1737709253317" duration="15393000" />
       <workItem from="1737813599471" duration="1196000" />
       <workItem from="1737814974137" duration="3999000" />
-      <workItem from="1737883913659" duration="5042000" />
+      <workItem from="1737883913659" duration="8567000" />
     </task>
     <servers />
   </component>

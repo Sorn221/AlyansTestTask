@@ -25,12 +25,6 @@ cd AlyansTestTask
 
 ### 2. Настройте файл .env
 
-Скопируйте файл .env.example в .env:
-
-```bash
-cp .env.example .env
-```
-
 Откройте файл .env и убедитесь, что настройки базы данных соответствуют следующим значениям:
 
 ```
@@ -95,3 +89,4 @@ docker-compose exec app php artisan migrate
 ```
 Приложение: http://localhost:8080
 ```
+### Контакты
