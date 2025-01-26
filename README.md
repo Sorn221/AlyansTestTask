@@ -72,13 +72,7 @@ docker-compose exec app composer install
 docker-compose exec app php artisan key:generate
 ```
 
-### 6. Установка зависимостей
-
-```bash
-docker-compose exec app composer install
-```
-
-### 7. Запустите миграции
+### 6. Запустите миграции
 
 ```bash
 docker-compose exec app php artisan migrate
@@ -94,7 +88,7 @@ docker-compose exec app php artisan migrate
 
 Откройте бд "laravel" ---> sql ---> выполните скрипт из файла test-data.sql
 
-### 7. Откройте проект в браузере
+### 8. Откройте проект в браузере
 
 После успешного запуска откройте проект в браузере:
 
